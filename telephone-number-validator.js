@@ -9,3 +9,6 @@ function telephoneCheck(str) {
 }
 
 telephoneCheck("555-555-5555");
+
+//Here is a solution from the help, checked after, clearly needed to make use of '?' to get cleaner solution!!!
+//var regex = /^(1\s?)?(\(\d{3}\)|\d{3})[\s\-]?\d{3}[\s\-]?\d{4}$/;
