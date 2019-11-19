@@ -1,4 +1,6 @@
 # fCC-JS-Projects
-The 5 final projects in freeCodeCamp's JavaScript Algorithms and Data Structures course
 
-Also sub-folder with the basic algorithm scripting challenges
+My solutions to the freeCodeCamp Javascript challenges: 
+- 16 Basic algorithm scripting challenges
+- 21 Intermediate algorithm scripting challenges
+- Final 5 projects to obtain certificate. 
